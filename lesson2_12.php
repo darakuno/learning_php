@@ -14,4 +14,4 @@
         $s += $n;
         echo "$n <br>"; 
     }
-    echo "$s <br>"; 
+    echo "$s <br>";
