@@ -18,3 +18,4 @@
     define('FONT_SIZE', '24px');
     ?>
     <p style="color: <?=COLOR?>;font-size: <?=FONT_SIZE?>">Hello, world!</p>
+    
